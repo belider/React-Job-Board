@@ -12,9 +12,9 @@ A simple CRUD job board application built with 3 different frontend stacks for e
 
 ## Preview
 
-![Home Page](demo/Screenshot%202025-06-27%20at%2012.01.01.png)
-![Job Listings](demo/Screenshot%202025-06-27%20at%2012.01.01.png)
-![Job Management](demo/Screenshot%202025-06-27%20at%2012.02.01.png)
+![Home Page](demo/Screenshot%201.png)
+![Job Listings](demo/Screenshot%202.png)
+![Job Management](demo/Screenshot%203.png)
 
 ## Project Structure
 
