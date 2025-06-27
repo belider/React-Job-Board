@@ -1,0 +1,4 @@
+{
+  "tsConfigPath": "tsconfig.app.json",
+  "writePaths": true
+}
